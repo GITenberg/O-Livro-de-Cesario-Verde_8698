@@ -1,0 +1,43 @@
+_repo: O-Livro-de-Cesario-Verde_8698
+alternative_title: O Livro de Cesário Verde
+contributor:
+  compiler:
+    agent_name: Silva Pinto, Antonio da
+    aliases:
+    - Pinto, Silva
+    - Da Silva Pinto, Antonio
+    birthdate: 1848
+    deathdate: 1911
+    gutenberg_agent_id: '35168'
+    url: http://www.gutenberg.org/2009/agents/35168
+creator:
+  author:
+    agent_name: Verde, Cesário
+    aliases:
+    - Verde, Jose Joaquim Cesario
+    - Verde, José Joaquim Cesário
+    birthdate: 1855
+    deathdate: 1886
+    gutenberg_agent_id: '2860'
+    url: http://www.gutenberg.org/2009/agents/2860
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Cesário_Verde
+    - http://en.wikipedia.org/wiki/Cesário_Verde
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8698'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced João Miguel Neves from images of the National Digital Library
+  project from the National Library of Portugal
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: O Livro de Cesario Verde
+url: http://www.gutenberg.org/ebooks/8698
