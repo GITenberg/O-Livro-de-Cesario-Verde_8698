@@ -1,4 +1,5 @@
 _repo: O-Livro-de-Cesario-Verde_8698
+_version: 0.1.0
 alternative_title: O Livro de Cesário Verde
 contributor:
   compiler:
@@ -10,6 +11,9 @@ contributor:
     deathdate: 1911
     gutenberg_agent_id: '35168'
     url: http://www.gutenberg.org/2009/agents/35168
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verde, Cesário
@@ -24,6 +28,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Cesário_Verde
     - http://en.wikipedia.org/wiki/Cesário_Verde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8698#O-Livro-de-Cesario-Verde
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
